@@ -13,9 +13,7 @@ I'm a IT student 💻 passionate about web development and competitive programmi
 - 💬 Ask me about anything related to web development or algorithms
 
 ### 📫 How to reach me:
-<a href="www.linkedin.com/in/mazen-mohamed-325ab12a2" target="_blank"><img src="https://img.shields.io/badge/-Mazen%20Mohamad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Mazen%20Mohamad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="www.linkedin.com/in/mazen-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Mazen%20Mohamad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 Skills
 
