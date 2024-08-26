@@ -1,17 +1,21 @@
-## **🌟🌟 Omar Khaled's Profile 🌟🌟**
----
-I'm a Computer Science student 🎓 passionate about web development and competitive programming!
+<h3 align="center">
+  Welcome to Mazen Mohamad's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net-Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  </p>
+</h3>
+I'm a IT student 💻 passionate about web development and competitive programming!
 
-- 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
-- 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
+- 🌱 I’m currently learning **FullStack.Net** (HTML, CSS, JavaScript, React)
+- 🚀 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
 
 ### 📫 How to reach me:
+<a href="www.linkedin.com/in/mazen-mohamed-325ab12a2" target="_blank"><img src="https://img.shields.io/badge/-Mazen%20Mohamad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Mazen%20Mohamad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkhaledfayez123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-fayez)
-[![cv](https://img.shields.io/badge/MY_CV-0077B5?style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/1W8xN8tMXaMBH79WJSEWq6c3atJS5zFb5/view?usp=sharing)
 
 ### 🛠 Skills
 
