@@ -48,5 +48,3 @@ mazen-mohamed-325ab12a2
 ![Communication](https://img.shields.io/badge/Communication-0077B5?style=for-the-badge&logo=messenger&logoColor=white)
 
 ---
-
-⚡ **Fun Fact:** I code best when I have a good playlist in the background! 🎧
