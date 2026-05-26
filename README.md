@@ -39,21 +39,17 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and [**`Community Builder`**](https://github.com/AhmedNassar7/Software-Engineering).
+- ⭐ I’m a `Software Engineer` Focused on `Backend` .
   
-- 🚀 Passionate about `Web Development`.
+- 🚀 Passionate about `Software Development`.
 
 - 💡 Interested in contributing to `Open Source Projects`.
-
-- 💬 Ask me about `Software Engineering`.
 
 - 🎯 Focus on `Quality` over `Quantity`
   
 - 🔍 Seeking an `Internship` or a `Job`.
 
-- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
-
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1yI12juqrG7MFROjmavassqV5YSCLlbjk/view?usp=sharing)**.
 
 - ✨ Enjoy my GitHub profile.
 
