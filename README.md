@@ -1,46 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 id="top" align="center">Hi, I'm Ahmed Nassar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Mazen Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;DSF+Member;Community+Builder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/ahmednassar7?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/ahmednassar7?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
-  <img src="https://img.shields.io/github/watchers/AhmedNassar7/Software-Engineering?label=Watchers&style=flat-square&color=0e75b6" alt="Watchers" height="21" />
-</p>
-
-
-<div align="center">
-
-<!-- 
-![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white)
-[![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
--->
-[![DSF Member](https://img.shields.io/badge/DSF-Member-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/foundation/individual-members/)
-<a href="https://user-badge.committers.top/egypt/AhmedNassar7">
-  <img src="https://img.shields.io/badge/Top%20Committer%20in%20Egypt-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top Egypt" />
-</a>
-
-</div>
-
-<!--
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
--->
-
-</div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=AhmedNassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="ahmednassar7" /></a> </p>
 
 <div align="center">
 
