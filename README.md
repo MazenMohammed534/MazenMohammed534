@@ -110,7 +110,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="25" style="vertical-align:middle;"/> .NET
   &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="25" style="vertical-align:middle;"/> REST APIs
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25""/> REST APIs
 </p>
 
 ### 💾 Databases
