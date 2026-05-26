@@ -3,7 +3,7 @@
 <h1 id="top" align="center">Hi, I'm Mazen Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=500&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -72,11 +72,11 @@
 <h2><a id="training-experience"></a>📚 Training Experience</h2>
 
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
-| --- | --- | --- | --- |
-| [Information Technology Institute](https://iti.gov.eg/home) | Frontend using React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
-| ↳ | Web Fundamentals Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
-| ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
-| [Coach Academy](https://coachacademy.club/) | Competitive Programming II Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
+| ---- | --- | --- | --- |
+| [Information Technology Institute (ITI)](https://iti.gov.eg/home)  | Backend Development using .Net | Aug 2025 - Sep 2025 | [Certificate](certificates/training/iti-react.pdf) |
+| [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/)  | Software Development using PHP | Jul 2024 - Aug 2025 | [Certificate](certificates/training/iti-python.pdf) |
+| [Sprints](https://sprints.ai/en-eg)  | Web Development | Jun 2025 - Jul 2025 | [Certificate](certificates/training/iti-web-development.pdf) |
+| [ALX](https://www.alxafrica.com/)  | AI Career Essentials | Sep 2024 - Oct 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
