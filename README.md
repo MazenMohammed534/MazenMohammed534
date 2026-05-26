@@ -3,7 +3,7 @@
 <h1 id="top" align="center">Hi, I'm Mazen Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=500&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=300&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Icons -->
@@ -23,6 +23,7 @@
   <a href="https://portfom.netlify.app/" target="_blank">
     <img src="logo.png" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -41,10 +42,6 @@
 
 &nbsp;
 
-<div align="center">
-  <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-</div>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 📚 Training Experience
@@ -58,13 +55,17 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+<div align="center">
+  <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media
 
 <a href="https://www.linkedin.com/in/mazen67" target="_blank"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a>
 &nbsp;
-<a href="https://x.com/MazenM510" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/x/x.svg" alt="x" height="40" width="35" /></a>
+<a href="https://x.com/MazenM510" target="_blank"><img src="https://cdn.simpleicons.org/x/white" alt="x" height="40" width="35" /></a>
 &nbsp;
-<a href="https://www.youtube.com/@MazenMohamed-c7l" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="youtube" height="40" width="35" /></a>
+<a href="https://www.youtube.com/@MazenMohamed-c7l" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="youtube" height="55" width="35" /></a>
 &nbsp;
 <a href="https://wa.me/0201125578351" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
@@ -77,6 +78,7 @@
 <a href="https://codeforces.com/profile/AhmedNassar7" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" alt="Codeforces" height="40" width="35" /></a> 
 -->
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills
 
 <!--
@@ -88,78 +90,69 @@
 -->
 
 ### 🔨 Languages
-
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30"/> C++
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30" style="vertical-align:middle;"/> C++
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30"/> C#
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" style="vertical-align:middle;"/> C#
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="30"/> JavaScript
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="30" style="vertical-align:middle;"/> JavaScript
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/> TypeScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" style="vertical-align:middle;"/> TypeScript
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="30"/> Python
-  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="30" style="vertical-align:middle;"/> Python
 </p>
 
 ### 🛠️ Backend Technologies
-
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="20"/> Node.js
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="25" style="vertical-align:middle;"/> Node.js
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="20"/> Express
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="25" style="vertical-align:middle;"/> Express
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="20"/> .NET
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="25" style="vertical-align:middle;"/> .NET
   &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="20"/> REST APIs
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="25" style="vertical-align:middle;"/> REST APIs
 </p>
 
-
 ### 💾 Databases
-
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="20"/> PostgreSQL
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="25" style="vertical-align:middle;"/> PostgreSQL
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="20"/> MongoDB
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="25" style="vertical-align:middle;"/> MongoDB
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" style="vertical-align:middle;"/> MySQL
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20"/> SQL Server
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" style="vertical-align:middle;"/> SQL Server
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="20"/> Supabase
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="25" style="vertical-align:middle;"/> Supabase
 </p>
 
 ### 🖥️ Frontend
-
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"/> React
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="25" style="vertical-align:middle;"/> React
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="20"/> Tailwind
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="25" style="vertical-align:middle;"/> Tailwind
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="20"/> Bootstrap
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="25" style="vertical-align:middle;"/> Bootstrap
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="20"/> HTML
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="25" style="vertical-align:middle;"/> HTML
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="20"/> CSS
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="25" style="vertical-align:middle;"/> CSS
 </p>
 
 ### ⚙️ Principles & Tools
-
 <p>
   OOP,&nbsp;&nbsp;SOLID,&nbsp;&nbsp;Design Patterns,&nbsp;&nbsp;Testing,&nbsp;&nbsp;Deployment,&nbsp;&nbsp;Data Structures,&nbsp;&nbsp;Algorithms
 </p>
-
 <p>
   <strong>Tools : </strong>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="20"/> Linux
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="25" style="vertical-align:middle;"/> Linux
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="20"/> Git
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="25" style="vertical-align:middle;"/> Git
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="20"/> Postman
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="25" style="vertical-align:middle;"/> Postman
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> VS Code
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="25" style="vertical-align:middle;"/> VS Code
 </p>
-
 
 <!--
 ### ☁️ DevOps & Infrastructure
@@ -180,10 +173,8 @@
 
 ## :book: Guest Book
 
-- Leave a message <a href="https://github.com/mazenmohamed534/mazenmohamed534/issues/new?template=guestbook-entry.md">Here</a>
+- Leave a message : mazenmohamed3910@gmail.com
 
 <!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
-
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
