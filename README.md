@@ -1,60 +1,42 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 id="top" align="center">Hi, I'm Mazen Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Mazen Mohammed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=500&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-
-<div align="center">
-
-<span>
+<!-- Social Icons -->
+<p align="center">
   <a href="https://www.linkedin.com/in/mazen67" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/MazenMohammed534" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/vjlNJ5PIiV/" target="_blank">
-    <img  src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/leetcode/leetcode.png" alt="Leetcode" height="50" />
+    <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/leetcode/leetcode.png" alt="Leetcode" height="50" />
   </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://portfom.netlify.app/" target="_blank">
     <img src="logo.png" height="50" />
   </a>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
+</p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer` Focused on `Backend Development` .
-  
-- 🚀 Passionate about `Software Development` and `Problem Solving.`.
-
+- ⭐ I'm a `Software Engineer` Focused on `Backend Development`.
+- 🚀 Passionate about `Software Development` and `Problem Solving.`
 - 💡 Interested in `Open Source Projects` and `building impactful projects`.
-
 - 🎯 Dedicated to `building clean`, `scalable`, and `high-quality` solutions.
-  
-- 🔍 Currently seeking `Internship` and  `Software Engineer` opportunities.
-
+- 🔍 Currently seeking `Internship` and `Software Engineer` opportunities.
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1yI12juqrG7MFROjmavassqV5YSCLlbjk/view?usp=sharing)**.
-
 - ✨ Thanks for visiting my GitHub profile.
 
 &nbsp;
@@ -63,36 +45,30 @@
   <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-
-
-
-<h2><a id="training-experience"></a>📚 Training Experience</h2>
+## 📚 Training Experience
 
 | 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
 | ---- | --- | --- | --- |
-| [Information Technology Institute (ITI)](https://iti.gov.eg/home)  | Backend Development using .Net | Aug 2025 - Sep 2025 | [Certificate](certificates/training/iti-react.pdf) |
-| [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/)  | Software Development using PHP | Jul 2024 - Aug 2025 | [Certificate](certificates/training/iti-python.pdf) |
-| [Sprints](https://sprints.ai/en-eg)  | Web Development | Jun 2025 - Jul 2025 | [Certificate](certificates/training/iti-web-development.pdf) |
-| [ALX](https://www.alxafrica.com/)  | AI Career Essentials | Sep 2024 - Oct 2024 | [Certificate](certificates/training/coach-academy.pdf) |
+| [Information Technology Institute (ITI)](https://iti.gov.eg/home) | Backend Development using .Net | Aug 2025 - Sep 2025 | [Certificate](certificates/training/iti-react.pdf) |
+| [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/) | Software Development using PHP | Jul 2024 - Aug 2025 | [Certificate](certificates/training/iti-python.pdf) |
+| [Sprints](https://sprints.ai/en-eg) | Web Development | Jun 2025 - Jul 2025 | [Certificate](certificates/training/iti-web-development.pdf) |
+| [ALX](https://www.alxafrica.com/) | AI Career Essentials | Sep 2024 - Oct 2024 | [Certificate](certificates/training/coach-academy.pdf) |
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media
 
-<h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
-
-<a href="https://www.linkedin.com/in/mazen67" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/mazen67" target="_blank"><img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a>
 &nbsp;
-<a href="https://x.com/MazenM510" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/x/x.svg" alt="x" height="40" width="35" /></a>
+<a href="https://x.com/MazenM510" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/x/x.svg" alt="x" height="40" width="35" /></a>
 &nbsp;
-<a href="https://www.youtube.com/@MazenMohamed-c7l" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="youtube" height="40" width="35" /></a>
+<a href="https://www.youtube.com/@MazenMohamed-c7l" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="youtube" height="40" width="35" /></a>
 &nbsp;
-<a href="https://wa.me/0201125578351" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+<a href="https://wa.me/0201125578351" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
-<a href="https://discord.com/users/925859957130264676" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
-&nbsp;
+<a href="https://discord.com/users/925859957130264676" target="_blank"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 
 <!-- 
 &nbsp; 
@@ -101,12 +77,7 @@
 <a href="https://codeforces.com/profile/AhmedNassar7" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" alt="Codeforces" height="40" width="35" /></a> 
 -->
 
-
-<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
-
-
-
-<h2><a id="skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills
 
 <!--
 <p align="center">
@@ -116,18 +87,8 @@
 </p>
 -->
 
-<div align="center">
-  <img src="skills/python.svg" alt="Python" width="50" height="50" />
-  <img src="skills/django.svg" alt="Django" width="50" height="50" />
-  <img src="skills/react.svg" alt="React" width="50" height="50" />
-  <img src="skills/javascript.svg" alt="JavaScript" width="50" height="50" />
-  <img src="skills/typescript.svg" alt="TypeScript" width="50" height="50" />
-  <img src="skills/github.svg" alt="GitHub" width="50" height="50" />
-  <img src="skills/mysql.svg" alt="MySQL" width="50" height="50" />
-  <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
-</div>
-
 ### 🔨 Languages
+
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30"/> C++
   &nbsp;&nbsp;
@@ -140,7 +101,9 @@
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="30"/> Python
   &nbsp;&nbsp;
 </p>
+
 ### 🛠️ Backend Technologies
+
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="20"/> Node.js
   &nbsp;&nbsp;
@@ -151,7 +114,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="20"/> REST APIs
 </p>
 
-### 💾 Databases & Queues
+
+### 💾 Databases
+
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="20"/> PostgreSQL
   &nbsp;&nbsp;
@@ -163,6 +128,38 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="20"/> Supabase
 </p>
+
+### 🖥️ Frontend
+
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"/> React
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="20"/> Tailwind
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="20"/> Bootstrap
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="20"/> HTML
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="20"/> CSS
+</p>
+
+### ⚙️ Principles & Tools
+
+<p>
+  OOP,&nbsp;&nbsp;SOLID,&nbsp;&nbsp;Design Patterns,&nbsp;&nbsp;Testing,&nbsp;&nbsp;Deployment,&nbsp;&nbsp;Data Structures,&nbsp;&nbsp;Algorithms
+</p>
+
+<p>
+  <strong>Tools : </strong>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="20"/> Linux
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="20"/> Git
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="20"/> Postman
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> VS Code
+</p>
+
 
 <!--
 ### ☁️ DevOps & Infrastructure
@@ -179,45 +176,14 @@
   &nbsp;&nbsp;
   Microservices
 </p>
-      -->
-### 🖥️ Frontend
-<p>
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"/> React
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="20"/> Tailwind
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="20"/> Bootstrap
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="20"/> HTML
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="20"/> CSS
-</p>
+-->
 
-### Development Methodologies
+## :book: Guest Book
 
-<p>
-  <strong>Principles and Fundamentals : </strong>
-  OOP,&nbsp;&nbsp;SOLID,&nbsp;&nbsp;Design Patterns,&nbsp;&nbsp;Testing,&nbsp;&nbsp;Deployment,&nbsp;&nbsp;Data Structures,&nbsp;&nbsp;Algorithms
-</p>
+- Leave a message <a href="https://github.com/mazenmohamed534/mazenmohamed534/issues/new?template=guestbook-entry.md">Here</a>
 
-<p>
-  <strong>Tools : </strong>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="20"/> Linux
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="20"/> Git
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="20"/> Postman
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> VS Code
-</p>
-
-
-<h2>:book: Guest Book</h2>
-
-- Leave a message <a href="https://github.com/ahmednassar7/ahmednassar7/issues/new?template=guestbook-entry.md">Here</a>
+<!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<!-- - Ask anything at <a href="https://github.com/ahmednassar7/ahmednassar7/discussions/new/choose">Discussions</a> -->
