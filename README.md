@@ -127,44 +127,101 @@
   <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
 </div>
 
-<h3>
-  <a id="programming-languages"></a>
-  <picture style="display: inline;">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px">
-  </picture>
-  Programming Languages
-</h3>  
+### 🔨 Languages
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="20"/> JavaScript / TypeScript
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="20"/> Python
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="20"/> Java
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="20"/> C++
+  &nbsp;&nbsp;
+  🖥️ VHDL
+</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py" />
-</a>
+### ☁️ Backend Technologies
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="20"/> Node.js
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="20"/> Express
+  &nbsp;&nbsp;
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" height="20"/> NestJS
+  &nbsp;&nbsp;
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="20"/> Django
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="20"/> Spring Boot
+  &nbsp;&nbsp;
+  REST APIs
+</p>
 
-<h3>
-  <a id="programming-languages"></a>
-  <picture style="display: inline;">
-    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px">
-  </picture>
-  Web Development
-</h3>  
+### 💾 Databases & Queues
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="20"/> PostgreSQL
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="20"/> MongoDB
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" height="20"/> Redis
+  &nbsp;&nbsp;
+  Firebase
+  &nbsp;&nbsp;
+  Kafka
+</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,django,dotnet,bootstrap,redux,jquery,vite" />
-</a>
+### 🤿 DevOps & Infrastructure
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="20"/> Docker
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" height="20"/> Kubernetes
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" height="20"/> Nginx
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="20"/> AWS
+  &nbsp;&nbsp;
+  CI/CD
+  &nbsp;&nbsp;
+  Microservices
+</p>
 
-### 🗄️ Databases  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,dynamodb,firebase" />
-</a>
+### 🖥️ Frontend
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="20"/> React
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="20"/> Redux
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="20"/> Tailwind
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="20"/> MUI
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="20"/> Bootstrap
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="20"/> HTML
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="20"/> CSS
+</p>
 
-### ☁️ Cloud & DevOps  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,jenkins" />
-</a>
+### Development Methodologies
 
-### ⚙️ Tools & Platforms  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,clion,cmake,anaconda,notion,latex,windows,linux" />
-</a>
+<p>
+  <strong>Principles and Fundamentals:</strong>
+  OOP &nbsp;&nbsp; SOLID &nbsp;&nbsp; Design Patterns &nbsp;&nbsp; Testing &nbsp;&nbsp; Deployment &nbsp;&nbsp; Data Structures &nbsp;&nbsp; Algorithms
+</p>
+
+<p>
+  <strong>Tools:</strong>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" height="20"/> Linux
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="20"/> Git
+  &nbsp;&nbsp;
+  🧰 Perforce
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="20"/> Jira & Confluence
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="20"/> Postman
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> VS Code
+</p>
+
 
 <h2>:book: Guest Book</h2>
 
