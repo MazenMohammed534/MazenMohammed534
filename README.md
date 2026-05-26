@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
   <a href="https://ahmednassar7.github.io/" target="_blank">
-    <img src="logo.png" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </span>
 
