@@ -8,28 +8,32 @@
 
 <div align="center">
 
-
-<div align="center">
-
-<span>[<kbd> <br> About <br> </kbd>](#about)</span>
-<span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
-<span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
-
-</div>
-
 <div align="center">
 
 <span>
-  <a href="https://www.linkedin.com/in/nasssar/" target="_blank">
+  <a href="https://www.linkedin.com/in/mazen67" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
   </a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-  <a href="https://ahmednassar7.github.io/" target="_blank">
+  <a href="https://github.com/MazenMohammed534" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <a href="https://leetcode.com/u/vjlNJ5PIiV/" target="_blank">
+    <img  src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/leetcode/leetcode.png" alt="Leetcode" height="50" />
+  </a>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <a href="https://portfom.netlify.app/" target="_blank">
+    <img src="logo.png" height="50" />
+  </a>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -39,19 +43,19 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer` Focused on `Backend` .
+- ⭐ I’m a `Software Engineer` Focused on `Backend Development` .
   
-- 🚀 Passionate about `Software Development`.
+- 🚀 Passionate about `Software Development` and `Problem Solving.`.
 
-- 💡 Interested in contributing to `Open Source Projects`.
+- 💡 Interested in `Open Source Projects` and `building impactful projects`.
 
-- 🎯 Focus on `Quality` over `Quantity`
+- 🎯 Dedicated to `building clean`, `scalable`, and `high-quality` solutions.
   
-- 🔍 Seeking an `Internship` or a `Job`.
+- 🔍 Currently seeking `Internship` and  `Software Engineer` opportunities.
 
 - 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1yI12juqrG7MFROjmavassqV5YSCLlbjk/view?usp=sharing)**.
 
-- ✨ Enjoy my GitHub profile.
+- ✨ Thanks for visiting my GitHub profile.
 
 &nbsp;
 
@@ -79,19 +83,16 @@
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
-<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/mazen67" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
+<a href="https://x.com/MazenM510" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/x/x.svg" alt="x" height="40" width="35" /></a>
 &nbsp;
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+<a href="https://www.youtube.com/@MazenMohamed-c7l" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="youtube" height="40" width="35" /></a>
 &nbsp;
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
+<a href="https://wa.me/0201125578351" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
-<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
+<a href="https://discord.com/users/925859957130264676" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 &nbsp;
-<a href="https://discord.com/users/1004903939415752834" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/leetcode/leetcode.png" alt="Leetcode" height="38" width="35" /></a>
 
 <!-- 
 &nbsp; 
