@@ -82,9 +82,13 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills
 
 <div align="center">
+  <img src="skills/c-sharp.svg" alt="c-sharp" width="50" height="50" />
   <img src="skills/python.svg" alt="Python" width="50" height="50" />
-  <img src="skills/django.svg" alt="Django" width="50" height="50" />
   <img src="skills/react.svg" alt="React" width="50" height="50" />
+  <img src="skills/javascript.svg" alt="Javascript" width="50" height="50" />
+  <img src="skills/typescript.svg" alt="typescript" width="50" height="50" />
+  <img src="skills/nodejs.svg" alt="nodejs" width="50" height="50" />
+  <img src="skills/express-js.svg" alt="express-js" width="50" height="50" />
   <img src="skills/mysql.svg" alt="MySQL" width="50" height="50" />
   <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
 </div>
