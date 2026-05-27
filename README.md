@@ -46,12 +46,12 @@
 
 ## 📚 Training Experience
 
-| 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
-| ---- | --- | --- | --- |
-| [Information Technology Institute (ITI)](https://iti.gov.eg/home) | Backend Development using .Net | Aug 2025 - Sep 2025 | [Certificate](certificates/training/iti-react.pdf) |
-| [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/) | Software Development using PHP | Jul 2024 - Aug 2025 | [Certificate](certificates/training/iti-python.pdf) |
-| [Sprints](https://sprints.ai/en-eg) | Web Development | Jun 2025 - Jul 2025 | [Certificate](certificates/training/iti-web-development.pdf) |
-| [ALX](https://www.alxafrica.com/) | AI Career Essentials | Sep 2024 - Oct 2024 | [Certificate](certificates/training/coach-academy.pdf) |
+| 🏢 Organization | 💼 Role | ⏰ Duration |
+| ---- | --- | --- |
+| [Information Technology Institute (ITI)](https://iti.gov.eg/home) | Backend Development using .Net | Aug 2025 - Sep 2025 
+| [National Telecommunication Institute (NTI)](https://www.nti.sci.eg/) | Software Development using PHP | Jul 2024 - Aug 2025
+| [Sprints](https://sprints.ai/en-eg) | Web Development | Jun 2025 - Jul 2025 
+| [ALX](https://www.alxafrica.com/) | AI Career Essentials | Sep 2024 - Oct 2024 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
