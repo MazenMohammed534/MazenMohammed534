@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="nodejs-icon">
+  <defs>
+    <style>
+      @keyframes node-ani {
+        0% { stroke-dashoffset: 0; }
+        50% { stroke-dashoffset: -400; }
+        100% { stroke-dashoffset: -800; }
+      }
+      .node-path {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+        stroke-dasharray: 400;
+        stroke-dashoffset: 0;
+        animation: node-ani 2s linear infinite;
+      }
+      .node-green { stroke: #539E43; }
+      .node-light { stroke: #83CD29; animation-delay: 0.3s; }
+    </style>
+  </defs>
+  <!-- Node.js hexagon shape -->
+  <path class="node-path node-green" d="M50 8 L88 29 L88 71 L50 92 L12 71 L12 29 Z"/>
+  <path class="node-path node-light" d="M50 18 L80 35 L80 65 L50 82 L20 65 L20 35 Z"/>
+  <!-- N letter: two vertical lines connected by a diagonal -->
+  <path class="node-path node-green" d="M32 65 L32 35 L68 65 L68 35" stroke-width="4"/>
+</svg>

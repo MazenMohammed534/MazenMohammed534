@@ -1,0 +1,76 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" id="csharp-icon">
+  <defs>
+    <style>
+      @keyframes csharp-draw {
+        0% { stroke-dasharray: 0 800; fill: transparent; }
+        60% { stroke-dasharray: 800 800; fill: transparent; }
+        80%, 100% { fill: #9B4F96; }
+      }
+      @keyframes cs-c-stroke {
+        0% { stroke-dasharray: 0 800; stroke: #9B4F96; fill: transparent; }
+        60% { stroke-dasharray: 800 800; stroke: #9B4F96; fill: transparent; }
+        80%, 100% { stroke: #fff; fill: transparent; }
+      }
+      @keyframes csharp-plus {
+        0%, 40% { opacity: 0; transform: scale(0); fill: #9B4F96; }
+        70%, 79% { opacity: 1; transform: scale(1); fill: #9B4F96; }
+        80%, 100% { opacity: 1; transform: scale(1); fill: #fff; }
+      }
+      #csharp-icon { fill: transparent; }
+      .cs-circle {
+        stroke: #9B4F96;
+        stroke-width: 5px;
+        animation: csharp-draw 3s ease-in-out infinite;
+      }
+      .cs-c {
+        stroke-width: 5px;
+        animation: cs-c-stroke 3s ease-in-out infinite;
+      }
+      .cs-plus-1 {
+        transform-origin: 89px 64px;
+        animation: csharp-plus 3s ease-in-out infinite;
+      }
+      .cs-plus-2 {
+        transform-origin: 109px 64px;
+        animation: csharp-plus 3s ease-in-out infinite;
+        animation-delay: 0.15s;
+      }
+    </style>
+  </defs>
+
+  <!-- الـ circle الخارجي -->
+  <path class="cs-circle" d="
+    M64 8
+    C33.1 8 8 33.1 8 64
+    C8 94.9 33.1 120 64 120
+    C94.9 120 120 94.9 120 64
+    C120 33.1 94.9 8 64 8Z
+  "/>
+
+  <!-- حرف C -->
+  <path class="cs-c" fill="transparent" d="
+    M58 40
+    C42 40 30 51 30 64
+    C30 77 42 88 58 88
+    C67 88 75 84 80 77
+    L70 71
+    C67 75 63 77 58 77
+    C48 77 41 71 41 64
+    C41 57 48 51 58 51
+    C63 51 67 53 70 57
+    L80 51
+    C75 44 67 40 58 40Z
+  "/>
+
+  <!-- ++ الأول -->
+  <g class="cs-plus-1">
+    <rect x="82" y="61" width="14" height="4" rx="2"/>
+    <rect x="87" y="56" width="4" height="14" rx="2"/>
+  </g>
+
+  <!-- ++ الثاني -->
+  <g class="cs-plus-2">
+    <rect x="102" y="61" width="14" height="4" rx="2"/>
+    <rect x="107" y="56" width="4" height="14" rx="2"/>
+  </g>
+</svg>

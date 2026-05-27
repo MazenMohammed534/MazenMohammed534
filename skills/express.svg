@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="express-icon">
+  <defs>
+    <style>
+      @keyframes express-ani {
+        0% { stroke-dashoffset: -200; }
+        50% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 200; }
+      }
+      .ex-path {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+        stroke-dasharray: 200;
+        stroke-dashoffset: -200;
+        animation: express-ani 1.4s infinite ease-in-out;
+      }
+      .d2 { animation-delay: 0.15s; }
+      .d3 { animation-delay: 0.30s; }
+      .d4 { animation-delay: 0.45s; }
+    </style>
+  </defs>
+  <rect width="100" height="100" rx="12" fill="#000"/>
+
+  <!-- e: حرف e على الشمال (مركزه x=28) -->
+  <!-- الخط الأفقي الأوسط -->
+  <path class="ex-path"    d="M14 50 L42 50"/>
+  <!-- النصف الدائرة العلوي -->
+  <path class="ex-path d2" d="M14 50 Q14 28 28 28 Q42 28 42 50"/>
+  <!-- النصف السفلي مفتوح -->
+  <path class="ex-path d3" d="M14 50 Q14 72 28 72 Q38 72 42 65"/>
+
+  <!-- x: حرفين متقاطعين على اليمين (مركزه x=72) -->
+  <path class="ex-path d2" d="M58 30 L86 70"/>
+  <path class="ex-path d4" d="M86 30 L58 70"/>
+</svg>
