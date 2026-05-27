@@ -88,7 +88,7 @@
   <img src="skills/javascript.svg" alt="Javascript" width="50" height="50" />
   <img src="skills/typescript.svg" alt="typescript" width="50" height="50" />
   <img src="skills/nodejs.svg" alt="nodejs" width="50" height="50" />
-  <img src="skills/express-js.svg" alt="express-js" width="50" height="50" />
+  <img src="skills/express.svg" alt="express-js" width="50" height="50" />
   <img src="skills/mysql.svg" alt="MySQL" width="50" height="50" />
   <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
 </div>
