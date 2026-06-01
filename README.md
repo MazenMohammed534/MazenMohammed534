@@ -150,6 +150,19 @@
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="25" style="vertical-align:middle;"/> CSS
 </p>
 
+### ☁️ DevOps & Infrastructure
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="20"/> Docker
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" height="20"/> Kubernetes
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" height="20"/> Nginx
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="20"/> AWS
+  &nbsp;&nbsp;
+  CI/CD
+</p>
+
 ### ⚙️ Principles & Tools
 <p>
   OOP,&nbsp;&nbsp;SOLID,&nbsp;&nbsp;Design Patterns,&nbsp;&nbsp;Testing,&nbsp;&nbsp;Deployment,&nbsp;&nbsp;Data Structures,&nbsp;&nbsp;Algorithms
@@ -165,18 +178,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="25" style="vertical-align:middle;"/> VS Code
 </p>
 
-### ☁️ DevOps & Infrastructure
-<p>
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="20"/> Docker
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" height="20"/> Kubernetes
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" height="20"/> Nginx
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="20"/> AWS
-  &nbsp;&nbsp;
-  CI/CD
-</p>
 
 
 ## :book: Guest Book
