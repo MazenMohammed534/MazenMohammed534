@@ -20,7 +20,7 @@
     <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/leetcode/leetcode.png" alt="Leetcode" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://portfom.netlify.app/" target="_blank">
+  <a href="https://mazenmohamed.vercel.app/" target="_blank">
     <img src="logo.png" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
