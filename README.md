@@ -37,7 +37,7 @@
 - 💡 Interested in `Open Source Projects` and `building impactful projects`.
 - 🎯 Dedicated to `building clean`, `scalable`, and `high-quality` solutions.
 - 🔍 Currently seeking `Internship` and `Software Engineer` opportunities.
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1yI12juqrG7MFROjmavassqV5YSCLlbjk/view?usp=sharing)**.
+- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1xm61herqJNowxQgfwQn3xN7V3nZN0pft/view)**.
 - ✨ Thanks for visiting my GitHub profile.
 
 &nbsp;
